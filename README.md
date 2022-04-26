@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciocossich/)
 
-![Paulotx GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciocossich&show_icons=true&theme=dracula)
+![mauriciocossich GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciocossich&show_icons=true&theme=dracula)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciocossich)](https://github.com/anuraghazra/github-readme-stats) -->
 
