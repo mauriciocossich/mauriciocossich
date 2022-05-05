@@ -10,9 +10,9 @@
 #### Working from home to worldwide! 🌎
 
 ### Public GitHub stats
-![mauriciocossich GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciocossich&layout=compact&theme=dracula)
+<!-- ![mauriciocossich GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciocossich&layout=compact&theme=dracula)
 
-![mauriciocossich GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciocossich&theme=dracula)
+![mauriciocossich GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciocossich&theme=dracula) -->
 
 ![mauriciocossich GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mauriciocossich&theme=dracula)
 
