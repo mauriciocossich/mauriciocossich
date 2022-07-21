@@ -90,7 +90,7 @@
 
 ### About me
 
- - Enjoy my wife, friends and my relationship with God.
+ - Enjoy my family, friends and my relationship with God.
  - Improve english, drink wine, cook and find out the world.
  - Love to read books, acquire knowledge and experiences.
  - Work out, practice calisthenics and martial art Systema.
