@@ -1,5 +1,5 @@
 ### Hello! My name is **Mauricio Cossich**
-#### I'm an enthusiastic software developer and team leader 👨‍💻
+#### I'm an enthusiastic software developer and team leader. 👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciocossich/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauriciocossic@gmail.com?subject=Contato%20via%20perfil%20GitHub)
@@ -87,16 +87,3 @@
     <img align="center" alt="Unity Engine" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
     <img align="center" alt="Neo4J" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white">
 </div>
-
-### About me
-
- - Enjoy my family, friends and my relationship with God.
- - Improve english, drink wine, cook and find out the world.
- - Love to read books, acquire knowledge and experiences.
- - Work out, practice calisthenics and martial art Systema.
- - Play guitar, table games and dance ballroom and hip hop.
- - Play sports like soccer, tennis and volleyball!
- - Play online MMORPG, battle royale and FPS games.
- - Excited to interact with future technologies and home automation.
- - Wish to be an engineer, investor and entrepreneur.
- - Wish to play baseball, football and be a sports entertainment athlete of one of these programs: Ultimate Beastmaster, American Ninja Warrior or The Titan Games. Before having my children.
