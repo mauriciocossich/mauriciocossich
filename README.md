@@ -1,5 +1,6 @@
 ### Hello! My name is **Mauricio Cossich**
-#### I'm an enthusiastic software developer and team leader, deeply passionate about the transformative power of artificial intelligence. 👨‍💻
+#### I'm an enthusiastic software developer and team leader!
+#### Deeply passionate about the transformative power of artificial intelligence. 👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciocossich/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauriciocossic@gmail.com?subject=Contato%20via%20perfil%20GitHub)
