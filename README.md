@@ -1,5 +1,5 @@
 ### Hello! My name is **Mauricio Cossich**
-#### I'm an enthusiastic software developer and team leader. 👨‍💻
+#### I'm an enthusiastic software developer and team leader, deeply passionate about the transformative power of artificial intelligence. 👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciocossich/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauriciocossic@gmail.com?subject=Contato%20via%20perfil%20GitHub)
@@ -67,7 +67,7 @@
     
 </div>
 
-### Interests 2D
+### 2D
 <div>
     <img align="center" alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
     <img align="center" alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
@@ -82,7 +82,7 @@
     <img align="center" alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </div>
 
-### Interests 3D
+### 3D
 <div>
     <img align="center" alt="ThreeJS" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
     <img align="center" alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
