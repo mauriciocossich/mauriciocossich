@@ -6,8 +6,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauriciocossic@gmail.com?subject=Contato%20via%20perfil%20GitHub)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.google.com/search?q=Adicione+no+Discord%2C+Cossich+%237026&rlz=1C5CHFA_enBR967BR967&ei=UtqpYuneL4q05OUPzL6PMA&ved=0ahUKEwjpz-b8w6_4AhUKGrkGHUzfAwYQ4dUDCA4&uact=5&oq=Adicione+no+Discord%2C+Cossich+%237026&gs_lcp=Cgdnd3Mtd2l6EAM6CQgAEEMQRhD5AToLCAAQgAQQsQMQgwE6BAgAEEM6DgguEIAEELEDEIMBENQCOgsILhCABBDHARCjAjoRCC4QgAQQsQMQgwEQxwEQ0QM6FAguEIAEELEDEIMBEMcBEKMCENQCOhAILhCxAxCDARDHARDRAxBDOhEILhCABBCxAxCDARDHARCjAjoFCC4QgAQ6CAguEIAEELEDOgsILhCABBDHARDRAzoICAAQsQMQgwE6BQgAEIAEOgsILhCABBCxAxCDAToICAAQgAQQsQM6BggAEB4QFjoFCCEQoAE6CAghEB4QFhAdOgoIIRAeEA8QFhAdOgcIIRAKEKABOgQIIRAVOgQIABANOggIABAeEA0QBToICAAQHhAIEA1KBAhBGABKBAhGGABQAFjLowFgqqYBaAhwAXgAgAH-AogBzjmSAQgwLjM2LjQuM5gBAKABAbABAMABAQ&sclient=gws-wiz)
 
-#### Working from home to worldwide! 🌎
-
 ### Public GitHub stats
 <!-- ![mauriciocossich GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciocossich&layout=compact&theme=dracula)
 
